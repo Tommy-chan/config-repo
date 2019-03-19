@@ -2,4 +2,4 @@ server:
   port: 8090
 test:
   env: dev
-  version: V0.01
+  version: V0.02
